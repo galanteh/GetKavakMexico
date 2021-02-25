@@ -1,0 +1,41 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-kavak-nar
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+  - nifi-kavak-processors (https://nifi.apache.org/nifi-nar-bundles/kavak-processor/nifi-kavak-processors) com.galanteh:nifi-kavak-processors:jar:1.0.1
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (https://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.12.1
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'JavaMoney' (http://javamoney.org)
+  - Moneta (JSR 354 RI) (http://javamoney.org) org.javamoney:moneta:jar:0.9
+    License: Apache 2 License  (LICENSE.html)
+
+From: 'Jonathan Hedley' (https://jhy.io/)
+  - jsoup Java HTML Parser (https://jsoup.org/) org.jsoup:jsoup:jar:1.13.1
+    License: The MIT License  (https://jsoup.org/license)
+
+From: 'JSR 354 - Expert Group' (http://javamoney.org)
+  - JSR 354 (Money and Currency API) (http://java.net/projects/javamoney) javax.money:money-api:jar:0.9
+    License: Spec License  (LICENSE.html)
+
+From: 'Oracle Corporation' (http://www.oracle.com/)
+  - Old JAXB Core (http://jaxb.java.net/jaxb-bundles/jaxb-core) com.sun.xml.bind:jaxb-core:jar:2.3.0
+    License: CDDL+GPL License  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - Old JAXB Runtime (http://jaxb.java.net/jaxb-bundles/jaxb-impl) com.sun.xml.bind:jaxb-impl:jar:2.3.0
+    License: CDDL+GPL License  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - jaxb-api (https://github.com/javaee/jaxb-spec/jaxb-api) javax.xml.bind:jaxb-api:jar:2.3.0
+    License: CDDL 1.1  (https://oss.oracle.com/licenses/CDDL+GPL-1.1)    License: GPL2 w/ CPE  (https://oss.oracle.com/licenses/CDDL+GPL-1.1)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Commons Codec (https://commons.apache.org/proper/commons-codec/) commons-codec:commons-codec:jar:1.14
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
