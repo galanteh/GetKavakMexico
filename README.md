@@ -17,6 +17,8 @@ This processor runs a web scrappy over Kavak Mexico and returns all the cars as 
 ## Attributes
 ![Attributes](https://github.com/galanteh/GetKavakMexico/blob/main/images/Attributes.png?raw=true)
 
+![Attributes2](https://github.com/galanteh/GetKavakMexico/blob/main/images/Attributes2.png?raw=true)
+
 # Disclaimer
 Please, always check the policy of the Kavak Mexico which you are trying to scrape information, this is *only for educational purposes* to develop on NiFi. 
 If you plan to use it just don't run this software continuously. Avoid harm the website service.
